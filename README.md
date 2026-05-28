@@ -1,0 +1,1 @@
+# Synthetic_Index_Indicator_001.mq4
